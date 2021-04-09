@@ -1,6 +1,6 @@
 Hello,
 
-my name is Jakob Adler and I am an assistant physician for laboratory medicine in Magdeburg, Germany.
+my name is Jakob Adler and I am an physician in training for specialization in laboratory medicine in Magdeburg, Germany.
 
 My main interests are:
 
