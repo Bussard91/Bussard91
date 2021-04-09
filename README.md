@@ -11,6 +11,7 @@ My main interests are:
 I´m currently working on different Shiny-Web-Apps for:
 - Method comparison in the clinical laboratory
 - Indirect methods to calculate reference intervals from routine laboratory data
+- App which contains clinically relevant calculators and scoring systems
 
 If you have any questions you can contact me here on github or by mail: jakob_adler@gmx.de.
 
