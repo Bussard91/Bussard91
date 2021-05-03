@@ -10,7 +10,6 @@ My main interests are:
 
 I´m currently working on different Shiny-Web-Apps for:
 - Method comparison in the clinical laboratory using zlog-values: https://adlermds.shinyapps.io/AdlerMDS_MethodComparisonZlog/
-- Indirect methods to calculate reference intervals from routine laboratory data (using the RefLim-algorithm): https://adlermds.shinyapps.io/SchenkAnsorge_Referenzintervalle/
 - Laboratory and clinical estimations and scores: https://adlermds.shinyapps.io/AdlerMDS_WebHelper/
 - Estimation of the Minimal Difference (MD) at a given cut-off: https://adlermds.shinyapps.io/AdlerMDS_MinimalDifference/
 
