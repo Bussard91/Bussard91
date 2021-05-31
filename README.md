@@ -9,9 +9,9 @@ My main interests are:
 - Machine Learning
 
 I´m currently working on different Shiny-Web-Apps for:
-- Method comparison in the clinical laboratory using zlog-values: https://adlermds.shinyapps.io/AdlerMDS_MethodComparisonZlog/
-- Laboratory and clinical estimations and scores: https://adlermds.shinyapps.io/AdlerMDS_WebHelper/
-- Estimation of the Minimal Difference (MD) at a given cut-off: https://adlermds.shinyapps.io/AdlerMDS_MinimalDifference/
+- [Method comparison in the clinical laboratory using zlog-values](https://adlermds.shinyapps.io/AdlerMDS_MethodComparisonZlog/)
+- [Estimation of the Minimal Difference (MD) at a given cut-off](https://adlermds.shinyapps.io/AdlerMDS_MinimalDifference/)
+- [Laboratory and clinical estimations and scores](https://adlermds.shinyapps.io/AdlerMDS_WebHelper/)
 
 If you have any questions you can contact me here on github or by mail: jakob_adler@gmx.de.
 
