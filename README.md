@@ -1,12 +1,12 @@
 Hello,
 
-my name is Jakob Adler and I am an physician in training for specialization in laboratory medicine in Magdeburg, Germany.
+my name is Jakob Adler and I am an physician with specialization in laboratory medicine, currently working in Magdeburg, Germany.
 
 My main interests are:
 
 - Coding in RStudio
 - Medical Data Science and Statistics
-- Machine Learning
+- Machine Learning and Deep Learning
 
 I´m currently working on different Shiny-Web-Apps for:
 - [Method comparison in the clinical laboratory using zlog-values](https://adlermds.shinyapps.io/AdlerMDS_MethodComparisonZlog/)
