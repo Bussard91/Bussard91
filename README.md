@@ -1,6 +1,6 @@
 Hello,
 
-my name is Jakob Adler and I am an physician with specialization in laboratory medicine, currently working in Magdeburg, Germany.
+my name is Jakob Adler and I am a physician with specialization in laboratory medicine, currently working in Magdeburg, Germany.
 
 My main interests are:
 
