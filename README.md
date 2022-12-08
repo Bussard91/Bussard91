@@ -1,17 +1,15 @@
 Hello,
 
-my name is Jakob Adler and I am a physician with specialization in laboratory medicine, currently working in Magdeburg, Germany.
+my name is Jakob Adler and I am a physician with specialization in laboratory medicine.
 
 My main interests are:
 
-- Coding in RStudio
-- Medical Data Science and Statistics
-- Machine Learning and Deep Learning
+- Medical Data Science
+- Statistical Learning
 
 I´m currently working on different Shiny-Web-Apps for:
-- [Method comparison in the clinical laboratory using zlog-values](https://adlermds.shinyapps.io/AdlerMDS_MethodComparisonZlog/)
-- [Estimation of the Minimal Difference (MD) at a given cut-off](https://adlermds.shinyapps.io/AdlerMDS_MinimalDifference/)
-- [Laboratory and clinical estimations and scores](https://adlermds.shinyapps.io/AdlerMDS_WebHelper/)
+- Estimation of the Minimal Difference (MD) at a given cut-off
+- Method comparison in the clinical laboratory using zlog-values
 
 If you have any questions you can contact me here on github or by mail: jakob_adler@gmx.de.
 
