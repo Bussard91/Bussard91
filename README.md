@@ -10,6 +10,7 @@ My main interests are:
 I´m currently working on different Shiny-Web-Apps for:
 - Estimation of the Minimal Difference (MD) at a given cut-off
 - Method comparison in the clinical laboratory using zlog-values
+- Estimation of reference intervals from routine laboratory data using an indirect approach
 
 If you have any questions you can contact me here on github or by mail: jakob_adler@gmx.de.
 
