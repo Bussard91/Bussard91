@@ -1,6 +1,6 @@
 Hello,
 
-my name is Jakob Adler and I am a physician with specialization in laboratory medicine.
+my name is Dr. med. Jakob Adler and I am a physician with specialization in laboratory medicine.
 
 My main interests are:
 
