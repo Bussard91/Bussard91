@@ -8,7 +8,6 @@ My main interests are:
 - Statistical Learning
 
 I´m currently working on different Shiny-Web-Apps for:
-- Estimation of the Minimal Difference (MD) at a given cut-off
 - Method comparison in the clinical laboratory using zlog-values
 - Estimation of reference intervals from routine laboratory data using an indirect approach
 
