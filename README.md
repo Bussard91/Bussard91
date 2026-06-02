@@ -7,10 +7,6 @@ My main interests are:
 - Medical Data Science
 - Statistical Learning
 
-I´m currently working on different Shiny-Web-Apps for:
-- Method comparison in the clinical laboratory using zlog-values
-- Estimation of reference intervals from routine laboratory data using an indirect approach
-
 If you have any questions you can contact me here on github or by mail: jakob_adler@gmx.de.
 
 See you,
